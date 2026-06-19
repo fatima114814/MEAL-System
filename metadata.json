@@ -1,0 +1,6 @@
+{
+  "name": "PRIME MEAL System",
+  "description": "Enterprise Monitoring, Evaluation, Accountability, and Learning (MEAL) project management platform supporting full project lifecycle stages, structural Log Frames, IPTT indicator tracking, Detailed Implementation Plans (DIP), Gantt charts, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
